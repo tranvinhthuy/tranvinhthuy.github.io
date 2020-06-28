@@ -1,6 +1,4 @@
-# English Words Tutor
-
-**Privacy Policy**
+# Privacy Policy
 
 The English Words Tutor app is developed as a Freemium app.
 
